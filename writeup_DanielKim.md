@@ -37,8 +37,6 @@ My draw_lines function processes arrays of lines (defined by 4 integers - x1,y1,
 - Run a linear polynomial fit on the points and get the gradient and m.
 - Draw the lines on the image.  
 
-![alt text][image1]
-
 
 ###2. Identify potential shortcomings with your current pipeline
 (Not a shortcoming) Handling different sizes of images are handled using ratios instead of pixel values. (e.g. Region of interest)
